@@ -8,7 +8,7 @@ Author
 ======
 
 -Javier Lopez Randulfe from the University of Vigo
-javier.randulfe@uvigo.es
+Javier.Randulfe@uvigo.es
 
 Project Structure
 ======
@@ -18,3 +18,6 @@ The project contains the following folders:
 - Doc: 	 Documentation related to the project  
 - bin:   Binary scripts
 - gcmse: Project source code
+    - tests/:        Unit tests for testing the program functionality
+    - __init__.py:  Initialization script. Imports modules
+    - gcmse.py:     Main module, containing the GCMSE function
