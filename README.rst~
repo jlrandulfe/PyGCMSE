@@ -9,10 +9,10 @@ Author
 -Javier Lopez Randulfe from the University of Vigo
 javier.randulfe@uvigo.es
 
-Project Structure
-======
+##Project Structure
+
 
 The project contains the following folders:  
-- Doc: 	 Documentation related to the project  
-- bin:   Binary scripts
-- gcmse: Project source code
+* Doc: 	 Documentation related to the project  
+* bin:   Binary scripts
+* gcmse: Project source code
