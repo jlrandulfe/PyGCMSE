@@ -7,20 +7,20 @@ def readme():
     with open('README.rst') as f:
         return f.read()
         
-setup(name='UviSpace',
-      version='3.0',
-      description='UVigo iSpace project python packages',
+setup(name='PyGCMSE',
+      version='1.0.0',
+      description='Gradient Conduction Mean Square Error',
       classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 1 - Alpha',
         'Programming Language :: Python :: 2.7',
-        'Framework :: Robot Framework',
+        'License :: OSI Approved :: MIT License'
         'Topic :: Scientific/Engineering'
       ],
-      url='',
+      url='https://github.com/jlrandulfe/PyGCMSE',
       author='Javier Lopez Randulfe',
       author_email='javier.randulfe@uvigo.es',
-      license='https://github.com/jlrandulfe/UviSpace',
-      scripts=['bin/first-script'],
+      license='MIT',
+      scripts=[''],
       packages=find_packages(exclude=['docs', 'tests*']),
       install_requires=[],
       test_suite='nose.collector',

@@ -2,7 +2,7 @@
 *.pyc
 
 # Backup gedit files.
-/*py~
+/*~
 
 # Setuptools distribution folder.
 /dist/
