@@ -7,8 +7,7 @@ This code was developed within de Biomedical Institute of Vigo and the Electrica
 Author
 ======
 
--Javier Lopez Randulfe from the University of Vigo
-Javier.Randulfe@uvigo.es
+- Javier.Randulfe@uvigo.es
 
 Project Structure
 ======
